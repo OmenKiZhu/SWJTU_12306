@@ -1,0 +1,7 @@
+-Dspring.data.redis.password=Sm9sVXBOYJjI030b5tz0trjpzvZzRhtZmEbv0uOImcD1wEDOPfeaqNU4PxHob/Wp
+-Dspring.data.redis.port=19389
+-Dunique-name=-OmenKi
+-Dframework.cache.redis.prefix=OmenKi
+-Dspring.data.redis.host=common-redis-dev.magestack.cn
+-Drocketmq.name-server=common-rocketmq-dev.magestack.cn:9876
+-Dspring.cloud.nacos.discovery.server-addr=common-nacos-dev.magestack.cn:8848
